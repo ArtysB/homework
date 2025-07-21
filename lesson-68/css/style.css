@@ -1,0 +1,37 @@
+html {
+    background-color: #313030;
+}
+
+p {
+    color: #fff;
+    font-size: 40px;
+    line-height: 100%;
+}
+
+
+.container {
+    height: 1500px;
+    width: 100%;
+}
+
+.container__block {
+    background: #b6b1af;
+    height: 85px;
+    width: auto;
+    border-radius: 20px;
+    position: fixed;
+    left: 50%;
+    bottom: 200px;
+    right: 100px;
+}
+
+.container__circle {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    background-color: #bd1e1e;
+    border-radius: 100%;
+
+}
